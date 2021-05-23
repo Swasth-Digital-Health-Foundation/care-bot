@@ -2,7 +2,7 @@
 
 XState-Chatbot is a chatbot developed on the technology [XState](https://xstate.js.org/docs/). XState is a JavaScript implementation of the concept of [State-Charts](https://statecharts.github.io).
 
-Please refer to [LOCALSETUP.md](./LOCALESETUP.md) to guide you through local setup.
+Please refer to [LOCALSETUP.md](./LOCALSETUP.md) to guide you through local setup.
 
 Each sub-project ```nodejs``` and ```react-app``` has it's separate README.
  
